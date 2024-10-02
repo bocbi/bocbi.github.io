@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://bocbi.github.io/PGd/sitemap.PGd.gz
